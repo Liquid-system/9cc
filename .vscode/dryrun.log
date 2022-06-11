@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/liquid_system/9cc'
+cc -std=c11 -g -static    9cc.c   -o 9cc
+make: Leaving directory '/home/liquid_system/9cc'
+ 
